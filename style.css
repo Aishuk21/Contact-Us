@@ -1,0 +1,28 @@
+/* Custom Styles */
+
+/* Form Styles */
+.container {
+    max-width: 500px;
+  }
+  
+  .form-control {
+    border-radius: 20px;
+  }
+  
+  .btn-primary {
+    background-color: #6c63ff;
+    border-color: #6c63ff;
+    border-radius: 20px;
+  }
+  
+  .btn-primary:hover {
+    background-color: #5248ff;
+    border-color: #5248ff;
+  }
+  
+  .alert-success {
+    background-color: #d4edda;
+    border-color: #c3e6cb;
+    border-radius: 20px;
+  }
+  
